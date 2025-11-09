@@ -1,0 +1,13 @@
+# Ignores Everything
+*
+
+# But don't ignore directories
+!*/
+
+# Don't ignore .cpp files
+!*.cpp
+
+!notes.md
+!.gitignore
+!.gitkeep
+!readme.md
